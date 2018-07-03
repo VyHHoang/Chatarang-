@@ -8,4 +8,4 @@ const Message = (props) => {
   )
 }
 
-export default Messageß
+export default Message
